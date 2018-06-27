@@ -1,3 +1,7 @@
+.idea
+composer.*
+templates
+
 *.log
 wp-config.php
 wp-content/advanced-cache.php
